@@ -23,5 +23,3 @@ function sayMyName() {
   console.log(name)
 }
 name();
-
-  
